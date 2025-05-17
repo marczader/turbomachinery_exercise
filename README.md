@@ -13,7 +13,7 @@ Im zweiten Abschnitt werden physikalischen Konstanten definiert und verschiedene
 
 ## Aufgabe 1: Berechnung der Input-Energie
 
-Die Eingangsleistung wird mithilfe einer linearen Interpolation aus den vorliegenden Messdaten bestimmt. Anschließend wird die Energie für jedes Messintervall berechnet, indem die Leistung mit der Zeit multipliziert wird. Schließlich werden alle Einzelwerte summiert, um die gesamte Eingangsenergie zu bestimmen.
+Die Eingangsleistung wird mithilfe einer linearen Interpolation aus den vorliegenden Messdaten bestimmt. Anschließend wird die Energie für jedes Messintervall berechnet, indem die Leistung mit der Zeit multipliziert wird. Schließlich werden alle Einzelwerte summiert, um die gesamte Input-Energie zu bestimmen.
 
 ## Aufgabe 2: Berechnung des Pumpenwirkungsgrades
 
@@ -23,3 +23,9 @@ Die hydraulische Leistung wird anhand einer Interpolation des Pumpenkopfes berec
 
 Die ungenutzte Energie wird als Differenz zwischen der Eingangsenergie und der hydraulischen Energie berechnet. Dieser Wert gibt die Energieverluste im System an. Abschließend werden die Ergebnisse ausgegeben, um die Effizienzbewertung der Pumpe zu unterstützen.
 
+## Ergebnisse
+
+**Gesamte Input-Energie**
+**Durchschnittlicher Pumpenwirkungsgrad**
+**Verlustleistung**
+**hydraulische Energie**
