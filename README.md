@@ -1,4 +1,7 @@
-Das Programm beginnt damit, drei unterschiedliche Datensätze einzulesen und einzurichten. Aus einer CSV-Datei werden Messdaten (df_1) geladen, die den Volumenstrom in m³/h enthalten. Zusätzlich werden zwei Referenz-Datensätze als DataFrames erstellt: Ein erster (df_2) enthält Kennliniendaten für den Pumpenkopf (also die Förderhöhe in Metern) in Abhängigkeit vom Volumenstrom, während ein zweiter (df_3) die Eingangsleistung (in kW) in Abhängigkeit vom Volumenstrom darstellt. Diese zusätzlichen Daten dienen als Grundlage dafür, die in der Pumpe wirkenden physikalischen Größen zu interpolieren und vergleichend auszuwerten.
+#Projektbeschreibung
+Im Rahmen der Vorlesung ***Strömungsmaschinen*** an der DHBW Karlsruhe wurde das Betriebsverhalten einer Wasserpumpe analysiert. Hierzu wurden reale Messdaten und das Datenblatt mit unterschiedlichen Kennlininen der verwendeten Pumpe eingesetzt. Ziel war es, die Energieeffizienz der Pumpe zu bewerten und mögliche Energieverluste zu identifizieren.
+
+Die Ergebnisse sollten abschließend in einem Jupyter Notebook dokumentiert und dem Dozent bereitgestellt werden.
 
 **Vorbereitung**
 
