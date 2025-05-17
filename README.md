@@ -36,3 +36,13 @@ Die ungenutzte Energie wird als Differenz zwischen der Eingangsenergie und der h
 **- hydraulische Energie**
 
 ## Python-Pakete
+
+***pandas*** – für Verarbeitung von Daten
+***matplotlib*** – für Erstellung von Diagramme und statistische Visualisierungen
+***scipy.interpolate*** – für die Interpolation der Pumpenkennlinien
+
+## Dateistruktur
+
+- ***README*** - Erläuterung und Inhalt des Repository
+- ***csv-Datei*** - mit Messdaten der Pumpe
+- ***Jupyter-Notebook*** - mit Python-Code
