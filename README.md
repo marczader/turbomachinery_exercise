@@ -7,6 +7,8 @@ Die Ergebnisse sollten abschließend in einem Jupyter Notebook dokumentiert und 
 
 ## Vorbereitung
 
+Der Python-Code wurde in englischer Sprache geschrieben und für besseres Verständnis mit deutschen Kommentaren versehen.
+
 In ersten Abschnitt wird zunächst die CSV-Datei mit den Messdaten des Volumenstroms eingelesen und in einem DataFrame (df_1) gespeichert. Gleichzeitig werden zwei weitere DataFrames (df_2 und df_3) erstellt, die Kennliniendaten für die Pumpenhöhe bzw. Eingangsleistung als Funktion des Volumenstroms enthalten, um diese später für Interpolationen und Berechnungen zu nutzen.
 
 Im zweiten Abschnitt werden physikalischen Konstanten definiert und verschiedene Einheiten angepasst, um diese zu einem späteren Zeitpunkt einzusetzen.
