@@ -27,19 +27,19 @@ Die ungenutzte Energie wird als Differenz zwischen der Eingangsenergie und der h
 
 ## Ergebnisse
 
-**- Gesamte Input-Energie**
+- **Gesamte Input-Energie**
 
-**- Durchschnittlicher Pumpenwirkungsgrad**
+- **Durchschnittlicher Pumpenwirkungsgrad**
 
-**- Verlustleistung**
+- **Verlustleistung**
 
-**- hydraulische Energie**
+- **hydraulische Energie**
 
 ## Python-Pakete
 
-***pandas*** – für Verarbeitung von Daten
-***matplotlib*** – für Erstellung von Diagramme und statistische Visualisierungen
-***scipy.interpolate*** – für die Interpolation der Pumpenkennlinien
+- ***pandas*** – für Verarbeitung von Daten
+- **matplotlib*** – für Erstellung von Diagramme und statistische Visualisierungen
+- ***scipy.interpolate*** – für die Interpolation der Pumpenkennlinien
 
 ## Dateistruktur
 
