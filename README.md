@@ -1,4 +1,4 @@
-# Hausarbeit Strömungsmaschinen
+# Hausarbeit Strömungsmaschinen (Ziffer: 29121)
 
 ## Projektbeschreibung
 Im Rahmen der Vorlesung ***Strömungsmaschinen*** an der DHBW Karlsruhe wurde das Betriebsverhalten einer Wasserpumpe analysiert. Hierzu wurden reale Messdaten und das Datenblatt mit unterschiedlichen Kennlinien der verwendeten Pumpe eingesetzt. Ziel war es, die Energieeffizienz der Pumpe zu bewerten und mögliche Energieverluste zu identifizieren.
