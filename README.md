@@ -31,7 +31,7 @@ Die ungenutzte Energie wird als Differenz zwischen der Eingangsenergie und der h
 
 - **Durchschnittlicher Pumpenwirkungsgrad**
 
-- **Verlustleistung**
+- **Ungenutzte Energie**
 
 - **hydraulische Energie**
 
